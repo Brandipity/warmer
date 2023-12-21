@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# WARMer, a free and open-source EMR built with React and Node.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Built for Expandability
 
 In the project directory, you can run:
 
